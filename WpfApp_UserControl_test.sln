@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp_UserControl_test", "WpfApp_UserControl_test\WpfApp_UserControl_test.csproj", "{5BF0B28E-E96C-448A-AC48-5F21907DDDCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BF0B28E-E96C-448A-AC48-5F21907DDDCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BF0B28E-E96C-448A-AC48-5F21907DDDCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BF0B28E-E96C-448A-AC48-5F21907DDDCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BF0B28E-E96C-448A-AC48-5F21907DDDCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B563B196-69A9-46CD-8EF8-06B5FDB8A532}
+	EndGlobalSection
+EndGlobal
